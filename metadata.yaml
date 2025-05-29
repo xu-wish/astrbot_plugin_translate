@@ -1,5 +1,5 @@
-name: helloworld # 这是你的插件的唯一识别名。
-desc: 这是 AstrBot 的默认插件，支持关键词回复。 # 插件简短描述
-version: v1.3 # 插件版本号。格式：v1.1.1 或者 v1.1
-author: Soulter # 作者
-repo: https://github.com/Soulter/helloworld # 插件的仓库地址
+name: translate
+desc: 使用 Google 翻译网页实现翻译，支持中英文语言名、翻译历史记录等功能。
+version: 0.1.0
+author: xu-wish
+repo: https://github.com/xu-wish/astrbot_plugin_translate
